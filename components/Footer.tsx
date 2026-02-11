@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
                 <span className="font-medium text-stone-800">CRM 2625 AC</span>
                 <span className="text-xs">Conselho Regional de Medicina</span>
               </li>
-              <li>Rio Branco, Acre</li>
+              <li>Cidade, Estado</li>
               <li>Consulta Presencial ou Online</li>
             </ul>
           </div>
