@@ -16,7 +16,7 @@ const About: React.FC = () => {
         <div className="grid md:grid-cols-2 gap-16 items-center">
           <div className="relative group overflow-hidden rounded-3xl">
              <img 
-              src="https://genestudio.site/wp-content/uploads/2026/02/unnamed.jpg?auto=format&fit=crop&q=80&w=500" 
+              src="https://genestudio.site/wp-content/uploads/2026/02/unnamed.jpg?auto=format&fit=crop&q=80&w=300" 
               alt="Consulta Médica" 
               className="w-full h-auto transition-transform duration-700 group-hover:scale-105"
             />
