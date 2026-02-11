@@ -30,7 +30,7 @@ const Booking: React.FC = () => {
                     <MapPin size={20} className="text-emerald-700" />
                   </div>
                   <div>
-                    <p className="font-bold">Presencial em Rio Branco</p>
+                    <p className="font-bold">Presencial</p>
                     <p className="text-sm text-stone-500">Atendimento humanizado no Acre.</p>
                   </div>
                 </div>
@@ -38,7 +38,7 @@ const Booking: React.FC = () => {
 
               <div id="contato" className="flex flex-col sm:flex-row gap-4">
                 <a 
-                  href="https://wa.me/seunumerowhatsapp" 
+                  href="https://api.whatsapp.com/send/?phone=68992815110&text&type=phone_number&app_absent=0" 
                   className="bg-emerald-700 text-white px-8 py-4 rounded-full flex items-center justify-center gap-2 hover:bg-emerald-800 transition-all font-bold shadow-lg shadow-emerald-700/20"
                 >
                   <MessageSquare size={20} /> Agendar via WhatsApp
