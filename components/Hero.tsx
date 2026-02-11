@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
         <div className="order-1 md:order-2 relative animate-in fade-in slide-in-from-right-8 duration-1000 delay-200">
           <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border-4 border-white aspect-[4/5] max-w-md mx-auto">
             <img 
-              src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=800" 
+              src="https://genestudio.site/wp-content/uploads/2026/02/unnamed.jpg?auto=format&fit=crop&q=80&w=800" 
               alt="Dra. Aline Paro" 
               className="w-full h-full object-cover"
             />
